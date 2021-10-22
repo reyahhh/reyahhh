@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @reyahhh
+- 👀 I’m interested in exploring new trends and techs in web development. Mainly programs in php/javascript.
+- 🌱 I’m currently learning frontend and everything nice.
